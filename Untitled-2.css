@@ -1,0 +1,23 @@
+
+#titolo{
+    text-align: left;
+    padding-top: 10px;
+    font-size: 48px;
+}
+
+#testo{
+    text-align: left;
+    font-family: oxygen_mono;
+    font-size: 18px;
+}
+
+#nome{
+    font-family: oxygen_mono;
+   font-size: 22px;
+   font-weight: bolder;
+   margin-left: 80px;
+}
+
+img{
+    padding: 20px;
+}
